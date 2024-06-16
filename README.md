@@ -61,4 +61,3 @@ This project demonstrates the effectiveness of multimodal learning techniques in
 ## References
 - [Memotion 3.0 competition dataset](https://aiisc.ai/defactify2/Memotion.html)
 - DistilBERTMulti and VGG16 model architectures
-- Results analysis and performance metrics from project documentation
