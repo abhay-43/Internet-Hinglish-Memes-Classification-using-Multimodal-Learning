@@ -59,6 +59,6 @@ The project utilizes the following models:
 This project demonstrates the effectiveness of multimodal learning techniques in classifying internet memes, particularly those with Hinglish content. By combining the strengths of textual and visual models, the proposed approach achieves competitive performance in both sentiment analysis and emotion classification tasks. Further work can explore refining the multimodal model and addressing additional tasks like intensity or scale of emotional expression within memes.
 
 ## References
-- Memotion 3.0 competition dataset
+- [Memotion 3.0 competition dataset](https://aiisc.ai/defactify2/Memotion.html)
 - DistilBERTMulti and VGG16 model architectures
 - Results analysis and performance metrics from project documentation
